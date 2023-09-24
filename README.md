@@ -1,7 +1,7 @@
 # jsNumGuessGame
 
 ## Overview
-This project is a JavaScript based game which incorporates HTML and CSS to make a number guessing game. This web page is designed to make a fun game where a number is selected from 1-100 and the player has to guess the number, once the player submits their number it will give feedback such as, "Awesome job, you got it!", "Your guess is too high!", and "Your guess is too low!"
+This project is a JavaScript based game which incorporates HTML and CSS to make a number guessing game. This web page is designed to make a fun game where a number is selected from 1-100 and the player has to guess the number, once the player submits their number it will give feedback such as, "Awesome job, you got it!", "Your guess is too high!", or "Your guess is too low!"
 
 ### Technology Stack
 
@@ -12,7 +12,7 @@ This project is a JavaScript based game which incorporates HTML and CSS to make 
 - **JavaScript**
 
 ### Functionality (JavaScript)
-This project incorporates several JavaScript functions, below are the few out of the many key functions: 
+This project incorporates several JavaScript functions, below are the many key functions needed for this project to work: 
 
 - **window.onload - It restarts the webpage whenever you submit a number to show one of three messages as I said in the Overview section.**
 
@@ -32,9 +32,9 @@ This project incorporates several JavaScript functions, below are the few out of
 
 - **showYouWon() - Displays the message "Awesome job, you got it!" if you get the number correrct.**
 
-- **showNumberAbove() - Displays the message "Your guess is too high!" if your guess is higher than the number between 1 - 100**
+- **showNumberAbove() - Displays the message "Your guess is too high!" if your guess is higher than the number between 1 - 100.**
 
-- **showNumberBelow() - Displays the message "Your guess is too low!" if your guess is lower than the number between 1 - 100**
+- **showNumberBelow() - Displays the message "Your guess is too low!" if your guess is lower than the number between 1 - 100.**
 
 ### Styling and Layout
 This is the styling and layout of the project and everything I used to make it look how I wanted it to look. 
